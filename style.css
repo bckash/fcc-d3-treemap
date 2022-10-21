@@ -28,3 +28,9 @@
 .g-text {
     font-size: .8rem;
 }
+
+#legend svg {
+    margin-top: 20px;
+    height: 100px;
+}
+
